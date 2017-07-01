@@ -1,4 +1,5 @@
-# user-checker
+# username-check
+一个简单的github用户名可用或不可用检测 <br>
 
 > A Vue.js description
 
